@@ -1,2 +1,3 @@
-# laser-electronics
-Organization and documentation for open-source laser electronics suite
+# Open-source laser electronics suite
+
+Stub README; more info to come soon.
