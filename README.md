@@ -21,3 +21,10 @@ Novel design based on the Texas Instruments DRV2700 piezoelectric IC, with low-n
 **Github:** https://github.com/JQIamo/Linear-Temperature-Controller
 
 Based on the wavelength electronics WTC3243 chip, this multi-channel temperature controller can servo both TECs or resistive heaters. Easy frontpanel control (via Teensy microcontroller) allows adjustment of setpoints and PI parameters for each channel.
+
+## Other circuits
+
+To be designed soon:
+
+* DAC
+* DDS
